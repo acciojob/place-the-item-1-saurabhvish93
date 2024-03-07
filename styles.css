@@ -1,5 +1,18 @@
 
 /* Your CSS Code here. */
+.b1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.box {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 5px;
+}
 .holder {
 	display: flex;
 	flex-direction: row;
